@@ -62,7 +62,8 @@ Favourite colour: yellow.
   
 
 # Thanks 
-* [Pinterest](https://www.pinterestcareers.com/en/locations/europe/dublin/) for hosting
+* Pinterest for hosting & catering
+    * Open roles:  https://www.pinterestcareers.com/en/locations/europe/dublin/
 
 ### Regular partners
 * [Coding Grace](https://codinggrace.com) for videoing & post-production
