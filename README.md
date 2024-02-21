@@ -6,10 +6,10 @@
 * ℹ️ Event page: [https://www.meetup.com/pyladiesdublin/events/294583181/](https://www.meetup.com/pyladiesdublin/events/298929924/)
 
   
-# Announcements
+# 📢 Announcements
 https://docs.google.com/presentation/d/e/2PACX-1vQIj3SFOFIqsV3K6rpbgVC-dp6Z2p0YzDht5AHoI3jFwcE5on7mfwGz3dTwrRQQFKIuc8PI5frIIxb6/pub?start=false&loop=false&delayms=3000
 
-# Talks
+# 🎙️ Talks
 ## ⭐️ BIG DATA DELETION USING APACHE ICEBERG AND AIRFLOW by AKSHITA AGGARWAL
 Handling big data is challenging. The sheer volume of data, often in the terabytes or petabytes, makes storage, processing, and analysis difficult, requiring specialised tools and techniques. In this talk, we discover how we handle Data deletion on these big datasets at Pinterest and dive deeper into Apache Iceberg's innovative approach that transforms the landscape of big data management. From using Apache Airflow dynamic DAG mechanisms to adding customisation and robust testing, we walk through the data deletion landscape.
 
@@ -61,7 +61,7 @@ Favourite colour: yellow.
 * https://www.linkedin.com/in/lodil/
   
 
-# Thanks 
+# 💟 Thanks 
 * Pinterest for hosting & catering
     * Open roles:  https://www.pinterestcareers.com/en/locations/europe/dublin/
 
