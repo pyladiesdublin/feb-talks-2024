@@ -13,6 +13,8 @@ https://docs.google.com/presentation/d/e/2PACX-1vQIj3SFOFIqsV3K6rpbgVC-dp6Z2p0Yz
 ## ⭐️ BIG DATA DELETION USING APACHE ICEBERG AND AIRFLOW by AKSHITA AGGARWAL
 Handling big data is challenging. The sheer volume of data, often in the terabytes or petabytes, makes storage, processing, and analysis difficult, requiring specialised tools and techniques. In this talk, we discover how we handle Data deletion on these big datasets at Pinterest and dive deeper into Apache Iceberg's innovative approach that transforms the landscape of big data management. From using Apache Airflow dynamic DAG mechanisms to adding customisation and robust testing, we walk through the data deletion landscape.
 
+* Slides: https://github.com/pyladiesdublin/feb-talks-2024/blob/main/PyLadies_%20Big%20Data%20Deletion%20Using%20Apache%20Iceberg%20and%20Airflow.pptx
+
 ## ⭐️ WHAT TIME IS IT RIGHT NOW() by ANTONIA BAUMANN
 What date & time is right now() depends on when you ask and where, as in which timezone you are located in. Python’s `datetime.datetime.utcnow()` function sounds like it has all of that information to provide you with a reliable datetime.
 This talk explores the attractive nuisance that is `datetime.datetime.utcnow()` and what “aware” and “naive” time is in python.
