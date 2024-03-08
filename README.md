@@ -28,6 +28,8 @@ Run python from your browser, without wasting tears on setting it up (pyodide)
 Scraping data from some web pages into Excel (CSS selectors and pandas)
 Other automation/analysis ideas with python, straight from the browser
 
+* Resources from the talk: https://github.com/lulogit/guerrilla-python
+
 ## ⭐️ WHERE CYBERSECURITY MEETS PYTHON by ANNA BARON GARCIA
 Cybersecurity Engineering is a computer science discipline that had traditionally favored programming languages such as C and Assembly and scripting languages such as Bash and JS. So where does Python fit into cybersecurity?
 This session introduces the benefits of python in cybersecurity and how you can use python to solve cyber challenges.
